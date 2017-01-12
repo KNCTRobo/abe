@@ -3,7 +3,7 @@
 int main(void)
 {
 	printf("あ☆べ\n");
-	printf("りゅうせい\n");
-	printf("試作２号機\n");
+	printf("りゅうせい");
+	printf("Mk3\n");
 	return 0;
 }
