@@ -6,11 +6,11 @@ int main(void)
 	printf("りゅうせい\n");
 	printf("あ☆べ\n");
 	printf("あ☆べ\n");
-	printf("あ☆べ\n");
-	printf("あ☆べ\n");
-	printf("あ☆べ\n");
-	printf("あ☆べ\n");
-	printf("あ☆べ\n");
+	printf("あべ\n");
+	printf("あべ\n");
+	printf("あべ\n");
+	printf("あべ\n");
+	printf("あべ\n");
 	printf("あ☆べ\n");
 	printf("あ☆べ\n");
 	printf("あ☆べ\n");
